@@ -1,0 +1,1 @@
+# mebi-5c-ye-saplama-hilesi-Teknolojik-Geli-melerin-Toplum-Hayat-na-Etkileri-i-in-al-r-
