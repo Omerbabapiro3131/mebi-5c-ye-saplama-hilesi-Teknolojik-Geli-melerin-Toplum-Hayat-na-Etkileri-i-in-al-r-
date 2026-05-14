@@ -1,1 +1,1 @@
-# mebi-5c-ye-saplama-hilesi-Teknolojik-Geli-melerin-Toplum-Hayat-na-Etkileri-i-in-al-r-
+BUNUN ÇALİSMASİ İCİN CONSOLEYİ ACİP YUKARİDAKİ "top" YAZİSİNİ "frmSkillBasedApp (index.html)" YAZİSİ İLE DEGİSTİRMEK LAZİM CUNKU SİTE İFRAME KULLANİYOR BU HİZ TESTİNİ GÖSTERİRKEN
